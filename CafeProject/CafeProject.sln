@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CafeProject", "CafeProject\", "{463ED118-2691-4DA1-9CC0-433B81252703}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51150"
+		Debug.AspNetCompiler.PhysicalPath = "CafeProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51150\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51150"
+		Release.AspNetCompiler.PhysicalPath = "CafeProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51150\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51150"
+		SlnRelativePath = "CafeProject\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463ED118-2691-4DA1-9CC0-433B81252703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463ED118-2691-4DA1-9CC0-433B81252703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C1F267-A13C-47AB-A83A-00B7CC2B318D}
+	EndGlobalSection
+EndGlobal
